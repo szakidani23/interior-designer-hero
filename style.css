@@ -115,16 +115,19 @@ button:hover{
   .navbar ul li{
     display:none;
   }
+  .content{
+    margin-top: -20px;
   .content h1{
     font-size: 42px;
     font-weight: 600;
   }
   .content p{
     font-size: 14px;
+    font-weight: 400;
   }
   .logo {
-    width: 13%;
-    margin-top: -15px;
+    width: 25%;
+    margin-top: -10px;
   }
   .banner {
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(background.webp);
