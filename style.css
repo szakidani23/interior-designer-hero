@@ -116,9 +116,9 @@ button:hover{
     display:none;
   }
   .content{
-    margin-top: -20px;
+    margin-top: -15px;
   .content h1{
-    font-size: 42px;
+    font-size: 40px;
     font-weight: 600;
   }
   .content p{
@@ -126,7 +126,7 @@ button:hover{
     font-weight: 400;
   }
   .logo {
-    width: 25%;
+    width: 19%;
     margin-top: -10px;
   }
   .banner {
