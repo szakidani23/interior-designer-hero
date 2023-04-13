@@ -128,6 +128,7 @@ button:hover{
   .logo {
     width: 19%;
     margin-top: -10px;
+    margin-bottom: 10px;
   }
   .banner {
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(background.webp);
